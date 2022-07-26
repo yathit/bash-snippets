@@ -2,7 +2,7 @@
 	"shebang": {
 		"prefix": "shebang",
 		"body": [
-			"#!/bin/bash"
+			"#!/usr/bin/env bash"
 		],
 		"description": "Shebang"
 	},
