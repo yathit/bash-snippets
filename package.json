@@ -2,8 +2,8 @@
     "name": "bash-snippets",
     "displayName": "bash-snippets",
     "description": "A collection of bash snippets",
-    "publisher": "castello-dev",
-    "repository": "https://github.com/CastelloDev/bash-snippets",
+    "publisher": "yathit",
+    "repository": "https://github.com/yathit/bash-snippets",
     "icon": "logo.png",
     "version": "0.0.2",
     "engines": {
